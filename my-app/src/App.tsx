@@ -1,3 +1,5 @@
+import { NewTransactionModal } from "./components/NewTransactionModal";
+
 import { useState } from "react";
 
 import Modal from 'react-modal';
@@ -28,12 +30,12 @@ export function App() {
       <Header onOpenNewTransactionModal={ handleOpenNewTransactionModal }/>
       <Dashboard />
 
-      <Modal 
+      <NewTransactionModal 
+
         isOpen={isNewTransactionModalOpen}
         onRequestClose={handleCloseNewTransactionModal}
-      >
-        <h2>Register Transaction</h2>
-      </Modal>
+      />
+      
       <GlobalStyle />
     </>
   );
