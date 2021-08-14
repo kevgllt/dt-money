@@ -1,7 +1,14 @@
 # dt money
 Finance Controller
 
-![alt text](https://natahouse.com/static/a7226e980cdd03e0ea4400310225cf55/e2ca6/react_js.jpg)
+![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/2.PNG)
 
-[Imgur](https://natahouse.com/static/a7226e980cdd03e0ea4400310225cf55/e2ca6/react_js.jpg)
+![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/3.PNG)
+
+![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/0.PNG)
+
+![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/1.PNG)
+
+![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/4.PNG)
+
 
