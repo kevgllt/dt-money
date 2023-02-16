@@ -10,10 +10,3 @@ Finance Controller
 ![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/1.PNG)
 
 ![alt text](https://github.com/kevgllt/dt-money/blob/main/screenshots/4.PNG)
-
-
-POSSO ADICIONAR MAIS COISAS AQUI 
-
-INDEX 
-
-lorem ipsum dolor sit amet
